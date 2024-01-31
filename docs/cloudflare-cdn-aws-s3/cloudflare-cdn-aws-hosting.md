@@ -7,7 +7,7 @@ Proxying the traffic through Cloudflare network adds endless options how to furh
 [Cloudflare + AWS | Host Static Websites](https://youtu.be/Q5Q5JOXu2-M)
 
 ## High Level Architecture Overview
-![Clouflare + AWS | Host Static Websites](./docs/S3%20Hosting%20with%20Cloudflare%202(1).png)
+![Clouflare + AWS | Host Static Websites](./S3%20Hosting%20with%20Cloudflare%202(1).png)
 
 ### Components
 1. S3 Bucket

@@ -4,7 +4,7 @@ As a `Public Cloud` provider `AWS` provides the most advanced offering of differ
 This repository is dedicated to explore different AWS + Cloudflare integration patterns.
 
 ## 1. Static Hosting in AWS and CDN in Cloudflare
-[Documentation](./cloudflare-cdn-aws-hosting.md)
+[Documentation](./docs/cloudflare-cdn-aws-s3/cloudflare-cdn-aws-hosting.md)
 
 ## 2. Web Application Security plus DDoS protection on Cloudflare
 
