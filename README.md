@@ -12,13 +12,11 @@ This repository is dedicated to explore different AWS + Cloudflare integration p
 ## 3. Zero Trust Access to AWS Network (VPN Replacement)
 [Documentation](./docs/cloudflare-ztna-to-aws-vpc/cloudflare-zero-trust-network-access.md)
 
-## 4. Zero Trust Access to self hosted SaaS products on AWS
+## 4. Zero Trust Access to self hosted SaaS products on AWS (SASE)
+[Documentation](./docs/cloudflare-sase-to-private-saas-on-aws/cloudflare-sase-to-private-saas-on-aws.md)
 
 ## 5. Load Balancing AWS Instances with Cloudflare load balancer
 
 ## 6. DNS provider + DNSSEC
 
 ## 7. IPv6 Proxy
-
-## 8. Cloudflare AppLauncher
-https://bobcares.com/blog/cloudflare-access-of-aws-sso/
