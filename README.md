@@ -10,6 +10,7 @@ This repository is dedicated to explore different AWS + Cloudflare integration p
 [Documentation](./docs/cloudflare-web-app-security/cloudflare-web-app-security.md)
 
 ## 3. Zero Trust Access to AWS Network (VPN Replacement)
+[Documentation](./docs/cloudflare-zero-trust-network-access/cloudflare-zero-trust-network-access.md)
 
 ## 4. Zero Trust Access to self hosted SaaS products on AWS
 
@@ -18,3 +19,6 @@ This repository is dedicated to explore different AWS + Cloudflare integration p
 ## 6. DNS provider + DNSSEC
 
 ## 7. IPv6 Proxy
+
+## 8. Cloudflare AppLauncher
+https://bobcares.com/blog/cloudflare-access-of-aws-sso/
